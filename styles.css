@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 600%;
+    margin-left: 29%;
+    margin-top: -10%;
+}
+
+p{
+    color: whitesmoke;
+    margin-left: 33%;
+    margin-right: 30%;
+    margin-top: 20%;
+}
+
+img{
+    margin-left: 35%;
+    margin-top: -4%;
+}
+
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 30%;
+    margin-top: 0%;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 30%;
+}
